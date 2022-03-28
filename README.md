@@ -6,7 +6,7 @@
 ### What I'm using ? :hammer_and_wrench:
 - Python
 - Ask me about anything you want to learn
-- You can reach me via Linkedin:  <a href="htt/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+- You can reach me via Linkedin:  <a href="htt/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="(https://www.linkedin.com/in/fuat-altunbas-phd-6a1b9528/)" height="20"/></a>
 - ## :rocket: Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="48"/> </a>
